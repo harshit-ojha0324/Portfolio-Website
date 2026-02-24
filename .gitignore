@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+image/.DS_Store
+
+# Personal assets — replace with your own before pushing
+image/my_image.jpg
